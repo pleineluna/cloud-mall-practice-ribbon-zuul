@@ -6,23 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-mall-common" />
         <module name="cloud-mall-eureka-server" />
         <module name="cloud-mall-category-product" />
-        <module name="cloud-mall-user (1)" />
+        <module name="cloud-mall-user" />
         <module name="cloud-mall-cart-order" />
-        <module name="cloud-mall-user (2)" />
+        <module name="cloud-mall-common" />
         <module name="cloud-mall-zuul" />
         <module name="cloud-mall-eureka-server2" />
       </profile>
-      <profile name="Annotation profile for cloud-mall-practice" enabled="true">
-        <sourceOutputDir name="../cloud-mall-user2/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../cloud-mall-user2/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="cloud-mall-user" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-mall-user (1)" target="1.8" />
+      <module name="cloud-mall-user (2)" target="1.8" />
       <module name="cloud-mall-user2" target="1.8" />
     </bytecodeTargetLevel>
   </component>

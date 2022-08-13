@@ -17,7 +17,6 @@
         <module>cloud-mall-cart-order</module>
         <module>cloud-mall-eureka-server2</module>
         <module>cloud-mall-eureka-server2</module>
-        <module>cloud-mall-user2</module>
     </modules>
 
     <parent>

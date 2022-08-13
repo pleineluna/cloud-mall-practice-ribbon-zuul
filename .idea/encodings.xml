@@ -7,8 +7,6 @@
     <file url="file://$PROJECT_DIR$/cloud-mall-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-mall-eureka-server2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-mall-user/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud-mall-user2/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/cloud-mall-user3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-mall-zuul/src/main/java" charset="UTF-8" />
   </component>
 </project>

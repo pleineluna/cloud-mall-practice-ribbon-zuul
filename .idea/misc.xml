@@ -11,8 +11,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-mall-user2/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-mall-user3/pom.xml" />
       </list>
     </option>
   </component>
